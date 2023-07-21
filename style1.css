@@ -1,0 +1,39 @@
+#center{
+    border: 2px solid black ;
+    width: 100%;
+    /* padding: 12px  20px; */
+    margin-top:2%;
+    color: rgb(0, 0, 0);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-black-minimalist-atmospheric-wooden-background-picture-image_965794.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    align-items: center;
+}
+#in{
+    /* border: 2px solid white; */
+    width: 400px;
+    flex-direction: row;
+    border-radius: 0px 10px 10px 10px;
+    /* background-image: url(https://t3.ftcdn.net/jpg/03/10/81/36/360_F_310813630_YJCNg0tkYMpt1yfkzRMszSNuqmhEhF55.jpg); */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 0, 0);
+    margin-top: 1%;
+    margin-left: 20%;
+    align-items: center;
+}
+
+#in form{
+    display: flex;
+    flex-direction: column;
+}
+*{
+   
+    background-repeat: no-repeat;
+    background-color: #1d501620;
+    background-size: cover;
+}
